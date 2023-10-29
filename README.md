@@ -5,7 +5,7 @@ As someone who lives in New York City, apartments are always on my mind. Rent is
 But how pricey is it? This curiosity as well as the desire to play around with some Python data science modules (Numpy, Pandas, Matplotlib) led me to this personal project.
 
 <p align="center">
-  <img width="580" alt="Screenshot 2023-10-29 at 12 04 36 PM" src="https://github.com/haryoon/nyc_apt_prices/assets/70294083/66ef0b9d-beb3-4a88-9737-f0ed0a4c8293">
+  <img width="500" alt="Screenshot 2023-10-29 at 12 04 36 PM" src="https://github.com/haryoon/nyc_apt_prices/assets/70294083/66ef0b9d-beb3-4a88-9737-f0ed0a4c8293">
 </p>
 
 
