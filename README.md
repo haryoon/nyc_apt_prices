@@ -1,6 +1,6 @@
 ## Project Description
 
-As someone who lives in New York City, apartments are always on my mind. Rent is pricy.
+As someone who lives in New York City, apartments are always on my mind. Rent is pricey.
 
 But how pricey is it? This curiosity as well as the desire to play around with some Python data science modules (Numpy, Pandas, Matplotlib) led me to this personal project.
 
