@@ -1,5 +1,5 @@
 <h1 align="center">NYC Rental Apartment Analysis</h1>
-To View in Browser (click on <b>nyc_rental_apt_price_analysis.ipynb</b> file)
+To view in browser, click on <b>nyc_rental_apt_price_analysis.ipynb</b> file in this repository
 
 ## Project Description
 
