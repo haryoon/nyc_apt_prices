@@ -1,3 +1,6 @@
+<h1 align="center">NYC Rental Apartment Analysis</h1>
+To View in Browser (click on <b>nyc_rental_apt_price_analysis.ipynb</b> file)
+
 ## Project Description
 
 As someone who lives in New York City, apartments are always on my mind. Rent is pricey.
