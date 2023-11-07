@@ -1,7 +1,10 @@
 <h1 align="center">NYC Rental Apartment Analysis</h1>
-To view in browser, click on <b>nyc_rental_apt_price_analysis.ipynb</b> file in this repository
 
-## Project Description
+## Table of Contents
+1. [Project Description](#first_link)
+2. [How to View the Analysis in the Browser](#second_link)
+
+## Project Description <a id='first_link'></a>
 
 As someone who lives in New York City, apartments are always on my mind. Rent is pricey.
 
@@ -24,7 +27,7 @@ In this project, I dove into the data and investigated following questions:
 
 The data for this project was extracted from a couple of csv files from StreetEasy, a real estate listing platform for the New York metropolitan area. Both csv files are attached to this repository and were imported into the Jupyter Notebook using the Python Pandas’ function `read_csv()`.
 
-## How to View the Analysis
+## How to View the Analysis <a id='second_link'></a>
 
 - Click on **nyc_rental_apt_price_analysis.ipynb** file in this repository, and read it from top to bottom.
 - Alternatively, you can also click on a specific analysis question at the top of the file to jump directly to that section.
